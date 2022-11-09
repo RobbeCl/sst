@@ -106,7 +106,7 @@ In the above example, the `Bucket` object that's imported from `@serverless-stac
 
 Let's take a look at how this is all wired up.
 
-1. First, the `@serverless-stack/node/table` package predefines an interface.
+1. First, the `@serverless-stack/node/bucket` package predefines an interface.
 
    ```ts
    export interface BucketResources {}
